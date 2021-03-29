@@ -1,2 +1,2 @@
 # Filtering-support-in-MultiColumnTreeView
-This session describes hot to filter the nodes in MultiColumnTreeView.
+This session describes how to filter the nodes in MultiColumnTreeView.
